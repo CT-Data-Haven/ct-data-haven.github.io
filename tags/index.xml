@@ -1,95 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on DataHaven Projects</title>
+    <title>Tags on DataHaven extras</title>
     <link>https://ct-data-haven.github.io/tags/</link>
-    <description>Recent content in Tags on DataHaven Projects</description>
+    <description>Recent content in Tags on DataHaven extras</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (DataHaven)</managingEditor>
-    <webMaster>youremail@domain.com (DataHaven)</webMaster>
-    <lastBuildDate>Tue, 07 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ct-data-haven.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bigimg</title>
-      <link>https://ct-data-haven.github.io/tags/bigimg/</link>
-      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (DataHaven)</author>
-      <guid>https://ct-data-haven.github.io/tags/bigimg/</guid>
+      <title>Cities</title>
+      <link>https://ct-data-haven.github.io/tags/cities/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ct-data-haven.github.io/tags/cities/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Code</title>
-      <link>https://ct-data-haven.github.io/tags/code/</link>
-      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (DataHaven)</author>
-      <guid>https://ct-data-haven.github.io/tags/code/</guid>
+      <title>Government</title>
+      <link>https://ct-data-haven.github.io/tags/government/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ct-data-haven.github.io/tags/government/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Example</title>
-      <link>https://ct-data-haven.github.io/tags/example/</link>
-      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (DataHaven)</author>
-      <guid>https://ct-data-haven.github.io/tags/example/</guid>
+      <title>Health</title>
+      <link>https://ct-data-haven.github.io/tags/health/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ct-data-haven.github.io/tags/health/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Markdown</title>
-      <link>https://ct-data-haven.github.io/tags/markdown/</link>
-      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (DataHaven)</author>
-      <guid>https://ct-data-haven.github.io/tags/markdown/</guid>
+      <title>Maps</title>
+      <link>https://ct-data-haven.github.io/tags/maps/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ct-data-haven.github.io/tags/maps/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Math</title>
-      <link>https://ct-data-haven.github.io/tags/math/</link>
-      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (DataHaven)</author>
-      <guid>https://ct-data-haven.github.io/tags/math/</guid>
+      <title>Neighborhoods</title>
+      <link>https://ct-data-haven.github.io/tags/neighborhoods/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ct-data-haven.github.io/tags/neighborhoods/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Photoswipe</title>
-      <link>https://ct-data-haven.github.io/tags/photoswipe/</link>
-      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (DataHaven)</author>
-      <guid>https://ct-data-haven.github.io/tags/photoswipe/</guid>
+      <title>Visualization</title>
+      <link>https://ct-data-haven.github.io/tags/visualization/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ct-data-haven.github.io/tags/visualization/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Plot</title>
-      <link>https://ct-data-haven.github.io/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <author>youremail@domain.com (DataHaven)</author>
-      <guid>https://ct-data-haven.github.io/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>https://ct-data-haven.github.io/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <author>youremail@domain.com (DataHaven)</author>
-      <guid>https://ct-data-haven.github.io/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regression</title>
-      <link>https://ct-data-haven.github.io/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <author>youremail@domain.com (DataHaven)</author>
-      <guid>https://ct-data-haven.github.io/tags/regression/</guid>
+      <title>Wellbeing</title>
+      <link>https://ct-data-haven.github.io/tags/wellbeing/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ct-data-haven.github.io/tags/wellbeing/</guid>
       <description></description>
     </item>
     

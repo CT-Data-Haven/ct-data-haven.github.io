@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Math on DataHaven Projects</title>
-    <link>https://ct-data-haven.github.io/tags/math/</link>
-    <description>Recent content in Math on DataHaven Projects</description>
+    <title>Math on DataHaven</title>
+    <link>/tags/math/</link>
+    <description>Recent content in Math on DataHaven</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (DataHaven)</managingEditor>
-    <webMaster>youremail@domain.com (DataHaven)</webMaster>
     <lastBuildDate>Sun, 05 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ct-data-haven.github.io/tags/math/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/math/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Math Sample</title>
-      <link>https://ct-data-haven.github.io/post/2017-03-05-math-sample/</link>
+      <link>/post/2017-03-05-math-sample/</link>
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (DataHaven)</author>
-      <guid>https://ct-data-haven.github.io/post/2017-03-05-math-sample/</guid>
+      
+      <guid>/post/2017-03-05-math-sample/</guid>
       <description>&lt;p&gt;KaTeX can be used to generate complex math formulas server-side.&lt;/p&gt;
 
 &lt;p&gt;$$
