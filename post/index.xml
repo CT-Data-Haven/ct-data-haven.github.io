@@ -55,14 +55,5 @@
       <description>Maps and charts of Census data for Waterbury&amp;rsquo;s zip codes.</description>
     </item>
     
-    <item>
-      <title>test</title>
-      <link>https://ct-data-haven.github.io/post/test/</link>
-      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ct-data-haven.github.io/post/test/</guid>
-      <description>test post 1</description>
-    </item>
-    
   </channel>
 </rss>
