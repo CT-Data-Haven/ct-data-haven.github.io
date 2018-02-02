@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ct-data-haven.github.io/post/bridgeport-neighborhood-profiles/</loc>
+    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ct-data-haven.github.io/post/stamford-neighborhood-profiles/</loc>
+    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ct-data-haven.github.io/post/500-cities-project-connecticut/</loc>
     <lastmod>2018-01-22T00:00:00+00:00</lastmod>
   </url>
@@ -39,7 +49,7 @@
   
   <url>
     <loc>https://ct-data-haven.github.io/</loc>
-    <lastmod>2018-01-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -53,7 +63,7 @@
   
   <url>
     <loc>https://ct-data-haven.github.io/tags/cities/</loc>
-    <lastmod>2018-01-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -83,13 +93,13 @@
   
   <url>
     <loc>https://ct-data-haven.github.io/tags/maps/</loc>
-    <lastmod>2018-01-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ct-data-haven.github.io/tags/neighborhoods/</loc>
-    <lastmod>2018-01-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -100,13 +110,13 @@
   
   <url>
     <loc>https://ct-data-haven.github.io/post/</loc>
-    <lastmod>2018-01-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ct-data-haven.github.io/categories/profiles/</loc>
-    <lastmod>2018-01-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -118,13 +128,13 @@
   
   <url>
     <loc>https://ct-data-haven.github.io/tags/</loc>
-    <lastmod>2018-01-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ct-data-haven.github.io/tags/visualization/</loc>
-    <lastmod>2018-01-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
