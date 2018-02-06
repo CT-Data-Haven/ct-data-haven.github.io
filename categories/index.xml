@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on DataHaven extras</title>
-    <link>https://ct-data-haven.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on DataHaven extras</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://ct-data-haven.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Profiles</title>
-      <link>https://ct-data-haven.github.io/categories/profiles/</link>
+      <link>/categories/profiles/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ct-data-haven.github.io/categories/profiles/</guid>
+      <guid>/categories/profiles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Story</title>
-      <link>https://ct-data-haven.github.io/categories/story/</link>
+      <link>/categories/story/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ct-data-haven.github.io/categories/story/</guid>
+      <guid>/categories/story/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualization</title>
-      <link>https://ct-data-haven.github.io/categories/visualization/</link>
+      <link>/categories/visualization/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ct-data-haven.github.io/categories/visualization/</guid>
+      <guid>/categories/visualization/</guid>
       <description></description>
     </item>
     

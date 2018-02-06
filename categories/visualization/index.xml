@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visualization on DataHaven extras</title>
-    <link>https://ct-data-haven.github.io/categories/visualization/</link>
+    <link>/categories/visualization/</link>
     <description>Recent content in Visualization on DataHaven extras</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ct-data-haven.github.io/categories/visualization/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/visualization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>500 Cities Project: Connecticut</title>
-      <link>https://ct-data-haven.github.io/post/500-cities-project-connecticut/</link>
+      <link>/post/500-cities-project-connecticut/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ct-data-haven.github.io/post/500-cities-project-connecticut/</guid>
+      <guid>/post/500-cities-project-connecticut/</guid>
       <description>Visualization of Connecticut data from the 500 Cities Project, a CDC and Robert Wood Johnson Foundation collaboration of local-level public health data.</description>
     </item>
     
     <item>
       <title>Financial (in)security in Connecticut</title>
-      <link>https://ct-data-haven.github.io/post/financial-in-security-in-connecticut/</link>
+      <link>/post/financial-in-security-in-connecticut/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ct-data-haven.github.io/post/financial-in-security-in-connecticut/</guid>
+      <guid>/post/financial-in-security-in-connecticut/</guid>
       <description>Visual exploration of the uneven landscape of financial security in Connecticut.</description>
     </item>
     
     <item>
       <title>Hartford-West Hartford Neighborhood Profiles</title>
-      <link>https://ct-data-haven.github.io/post/hartford-neighborhood-profiles/</link>
+      <link>/post/hartford-neighborhood-profiles/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ct-data-haven.github.io/post/hartford-neighborhood-profiles/</guid>
+      <guid>/post/hartford-neighborhood-profiles/</guid>
       <description>Maps and charts of Census data for Hartford and West Hartford&amp;rsquo;s neighborhoods.</description>
     </item>
     
     <item>
       <title>New Haven Neighborhood Profiles</title>
-      <link>https://ct-data-haven.github.io/post/new-haven-neighborhood-profiles/</link>
+      <link>/post/new-haven-neighborhood-profiles/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ct-data-haven.github.io/post/new-haven-neighborhood-profiles/</guid>
+      <guid>/post/new-haven-neighborhood-profiles/</guid>
       <description>Maps and charts of Census data for New Haven&amp;rsquo;s neighborhoods.</description>
     </item>
     
     <item>
       <title>The many wage gaps in Connecticut</title>
-      <link>https://ct-data-haven.github.io/post/the-many-wage-gaps-in-connecticut/</link>
+      <link>/post/the-many-wage-gaps-in-connecticut/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ct-data-haven.github.io/post/the-many-wage-gaps-in-connecticut/</guid>
+      <guid>/post/the-many-wage-gaps-in-connecticut/</guid>
       <description>Visual exploration of the wage gap(s) in Connecticut by gender, race, education, occupation, and their overlaps.</description>
     </item>
     
     <item>
       <title>Waterbury Neighborhood Profiles</title>
-      <link>https://ct-data-haven.github.io/post/waterbury-neighborhood-profiles/</link>
+      <link>/post/waterbury-neighborhood-profiles/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ct-data-haven.github.io/post/waterbury-neighborhood-profiles/</guid>
+      <guid>/post/waterbury-neighborhood-profiles/</guid>
       <description>Maps and charts of Census data for Waterbury&amp;rsquo;s zip codes.</description>
     </item>
     

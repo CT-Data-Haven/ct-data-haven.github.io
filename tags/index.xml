@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on DataHaven extras</title>
-    <link>https://ct-data-haven.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on DataHaven extras</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ct-data-haven.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cities</title>
-      <link>https://ct-data-haven.github.io/tags/cities/</link>
+      <link>/tags/cities/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ct-data-haven.github.io/tags/cities/</guid>
+      <guid>/tags/cities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Story</title>
-      <link>https://ct-data-haven.github.io/tags/data-story/</link>
+      <link>/tags/data-story/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ct-data-haven.github.io/tags/data-story/</guid>
+      <guid>/tags/data-story/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Economic Justice</title>
-      <link>https://ct-data-haven.github.io/tags/economic-justice/</link>
+      <link>/tags/economic-justice/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ct-data-haven.github.io/tags/economic-justice/</guid>
+      <guid>/tags/economic-justice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Government</title>
-      <link>https://ct-data-haven.github.io/tags/government/</link>
+      <link>/tags/government/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ct-data-haven.github.io/tags/government/</guid>
+      <guid>/tags/government/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Health</title>
-      <link>https://ct-data-haven.github.io/tags/health/</link>
+      <link>/tags/health/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ct-data-haven.github.io/tags/health/</guid>
+      <guid>/tags/health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maps</title>
-      <link>https://ct-data-haven.github.io/tags/maps/</link>
+      <link>/tags/maps/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ct-data-haven.github.io/tags/maps/</guid>
+      <guid>/tags/maps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neighborhoods</title>
-      <link>https://ct-data-haven.github.io/tags/neighborhoods/</link>
+      <link>/tags/neighborhoods/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ct-data-haven.github.io/tags/neighborhoods/</guid>
+      <guid>/tags/neighborhoods/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualization</title>
-      <link>https://ct-data-haven.github.io/tags/visualization/</link>
+      <link>/tags/visualization/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ct-data-haven.github.io/tags/visualization/</guid>
+      <guid>/tags/visualization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wellbeing</title>
-      <link>https://ct-data-haven.github.io/tags/wellbeing/</link>
+      <link>/tags/wellbeing/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ct-data-haven.github.io/tags/wellbeing/</guid>
+      <guid>/tags/wellbeing/</guid>
       <description></description>
     </item>
     
