@@ -5,10 +5,19 @@
     <link>/post/</link>
     <description>Recent content in Posts on DataHaven extras</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Slides: Communicating with data visualization</title>
+      <link>/post/slides-communicating-with-data-visualization/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/slides-communicating-with-data-visualization/</guid>
+      <description>Slides (with tons of links!) from a workshop on data visualization, especially geared towards nonprofit folks</description>
+    </item>
     
     <item>
       <title>Bridgeport Neighborhood Profiles</title>
