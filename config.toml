@@ -1,5 +1,4 @@
 theme = "beautifulhugo"
-baseURL = "https://ct-data-haven.github.io/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "DataHaven extras"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+title = "My New Hugo Site"
