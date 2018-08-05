@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cities on DataHaven extras</title>
+    <link>https://ct-data-haven.github.io/tags/cities/</link>
+    <description>Recent content in Cities on DataHaven extras</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ct-data-haven.github.io/tags/cities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Housing segregation in Greater New Haven</title>
+      <link>https://ct-data-haven.github.io/post/housing-segregation-in-greater-new-haven/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ct-data-haven.github.io/post/housing-segregation-in-greater-new-haven/</guid>
+      <description>A visual deep-dive into the history of racial segregation in Greater New Haven&amp;rsquo;s housing and the patterns that remain today.</description>
+    </item>
+    
+    <item>
+      <title>500 Cities Project: Connecticut</title>
+      <link>https://ct-data-haven.github.io/post/500-cities-project-connecticut/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ct-data-haven.github.io/post/500-cities-project-connecticut/</guid>
+      <description>Visualization of Connecticut data from the 500 Cities Project, a CDC and Robert Wood Johnson Foundation collaboration of local-level public health data.</description>
+    </item>
+    
+    <item>
+      <title>Hartford/West Hartford Neighborhood Profiles</title>
+      <link>https://ct-data-haven.github.io/post/hartford-west-hartford-neighborhood-profiles/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ct-data-haven.github.io/post/hartford-west-hartford-neighborhood-profiles/</guid>
+      <description>Maps and charts of Census data for Hartford and West Hartford&amp;rsquo;s neighborhoods</description>
+    </item>
+    
+    <item>
+      <title>New Haven Neighborhood Profiles</title>
+      <link>https://ct-data-haven.github.io/post/new-haven-neighborhood-profiles/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ct-data-haven.github.io/post/new-haven-neighborhood-profiles/</guid>
+      <description>Maps and charts of Census data for New Haven&amp;rsquo;s neighborhoods</description>
+    </item>
+    
+    <item>
+      <title>Stamford Neighborhood Profiles</title>
+      <link>https://ct-data-haven.github.io/post/stamford-neighborhood-profiles/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ct-data-haven.github.io/post/stamford-neighborhood-profiles/</guid>
+      <description>Maps and charts of Census data for Stamford&amp;rsquo;s neighborhoods</description>
+    </item>
+    
+    <item>
+      <title>Waterbury Neighborhood Profiles</title>
+      <link>https://ct-data-haven.github.io/post/waterbury-neighborhood-profiles/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ct-data-haven.github.io/post/waterbury-neighborhood-profiles/</guid>
+      <description>Maps and charts of Census data for Waterbury&amp;rsquo;s zip codes.</description>
+    </item>
+    
+    <item>
+      <title>Bridgeport Neighborhood Profiles</title>
+      <link>https://ct-data-haven.github.io/post/bridgeport-neighborhood-profiles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ct-data-haven.github.io/post/bridgeport-neighborhood-profiles/</guid>
+      <description>Maps and charts of Census data for Bridgeport&amp;rsquo;s neighborhoods</description>
+    </item>
+    
+  </channel>
+</rss>
