@@ -4,3 +4,4 @@
 .Ruserdata
 blogdown
 .DS_Store
+*.Rproj
